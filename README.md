@@ -18,5 +18,4 @@ This project focuses on the **Top persistence methods** commonly observed in Lin
 2. [Systemd Services](02-systemd-service-persistence.md)
 3. [Shell Startup Files](03-shell-startup-files-persistence.md)
 4. [Web Shell Persistence](04-web-shell-persistence.md)
-5. [SUID Backdoors & Privilege Persistence](05-suid-backdoors-and-privilege-persistence.md)
-6. [SSH Authorized Keys Persistence](06-ssh-authorized-keys-persistence.md)
+5. [SSH Authorized Keys Persistence](05-ssh-authorized-keys-persistence.md)
