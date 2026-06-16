@@ -1,5 +1,7 @@
 # Linux Persistence Playbook
 
+![](docs/Banner-Image.png)
+
 ## Overview
 
 This repository documents the most common Linux persistence techniques used in red team operations, adversary emulation exercises, malware analysis, and DFIR investigations.
